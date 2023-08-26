@@ -16,5 +16,10 @@ _p07_OperadoresAsignacion
 _p08_FuncionesTrigonometricas
 _p09_DivivdirEnCifras
 
-# Practica 1
-_p16_TrabajandoEnteros
+## Practica 1
+_p10_HipotenusaTriangulo.java
+_p11_CalcularAngulo.java
+_p12_ConvertirTemperatura.java
+_p13_VolumenCilindro.java
+_p14_CalculoTiempo.java
+_p15_ConvertirDorlares.java
