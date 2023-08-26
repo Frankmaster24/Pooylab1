@@ -11,7 +11,7 @@ public class _p12_ConvertirTemperatura {
         System.out.print("Dame los grados en fahrenheit= "); fahrenheit = obj.nextFloat();
       //el 5.0f asegura que las operaciones se hagan con numeros flotantes 
       
-        celsius = (fahrenheit - 32) * (5.0f / 9.0f);
+        celsius = (fahrenheit - 32) * (5.0f / 9.0f); 
 
         System.out.println(String.format("La conversion la conversion es= %f ", celsius));
 

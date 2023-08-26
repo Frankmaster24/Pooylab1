@@ -9,7 +9,7 @@ public class _p11_CalcularAngulo {
         System.out.print("Dame el primer angulo= "); angulo1 = obj.nextInt();
         System.out.print("Dame el segundo angulo= "); angulo2 = obj.nextInt();
 
-        suma = 180 - (angulo1 + angulo2);
+        suma = 180 - (angulo1 + angulo2); 
 
 
         System.out.println(String.format("El tercer aungulo es %d", suma));

@@ -11,7 +11,7 @@ public class _p13_VolumenCilindro {
         System.out.print("Ingresa el radio del cilindro: ");
         double radio = scanner.nextDouble();
 
-        System.out.print("Ingresa la altura del cilindro: ");
+        System.out.print("Ingresa la altura del cilindro: "); 
         double altura = scanner.nextDouble();
 
         // Calcular el volumen del cilindro

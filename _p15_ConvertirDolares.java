@@ -7,7 +7,7 @@ public class _p15_ConvertirDolares {
     public static void main(String[] args) {
 
         float pesos,dolares,div;
-        Scanner obj=new Scanner(System.in);
+        Scanner obj=new Scanner(System.in); 
         System.out.print("Dame la cantidad de pesos que quieras convertir= "); pesos  = obj.nextInt();
         System.out.print("Dame el precio del dolar actual= "); dolares  = obj.nextInt();
 

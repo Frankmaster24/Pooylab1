@@ -16,7 +16,7 @@ public class _p10_HipotenusaTriangulo {
         multi1 = catetoA * catetoA;
         multi2 = catetoB * catetoB;
         suma= multi1 + multi2;
-        raiz = (float) Math.sqrt(suma);
+        raiz = (float) Math.sqrt(suma); 
 
         System.out.println(String.format("La hipotenusa con catetos %d y %d es de= %.2f", catetoA,catetoB,raiz));
 

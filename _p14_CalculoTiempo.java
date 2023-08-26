@@ -9,7 +9,7 @@ public class _p14_CalculoTiempo {
         int horas,dias,minutos,segundos;
 
         Scanner obj=new Scanner(System.in);
-        System.out.print("Dame las horas que quieras convertir= "); horas  = obj.nextInt();
+        System.out.print("Dame las horas que quieras convertir= "); horas  = obj.nextInt(); 
 
         dias=horas/24;
         minutos=horas * 60;
