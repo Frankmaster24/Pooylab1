@@ -98,3 +98,10 @@ _p65_PromedioNumeros
 _p66_ConversionTemperaturas
 _p67_SumaRango
 _p68_TablasMultiplicar
+
+## Practica 5
+_p75_NumeroMenor
+_p76_DiaSemana
+_p77_MedidasLongitud
+_p78_SumaMultiplos
+_p79_Angulo
