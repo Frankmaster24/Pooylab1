@@ -92,6 +92,11 @@ _p59_FactorialNumeros
 _p60_SumaTerminos
 
 ## Practica 4
+_p70_MayorTresNumeros
+_p71_SumaDigitos
+_p72_SumaParesImpares
+_p73_Factorial
+_p74_CuadroCaracter
 
 ## Actividad 11
 _p65_PromedioNumeros
