@@ -110,3 +110,5 @@ _p76_DiaSemana
 _p77_MedidasLongitud
 _p78_SumaMultiplos
 _p79_Angulo
+
+## Examen parcial 1
