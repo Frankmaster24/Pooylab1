@@ -147,3 +147,15 @@ _p100_Articulo
 _p101_TrabajoPersona
 _p103_ClienteFactura
 _p102_AutorLibro
+
+## Práctica 8
+_p104_PuntoCirculo
+_p105_PuntoTriangulo
+
+## Actividad 17
+_p106_Persona
+_p107_Forma
+
+## Práctica 9
+_p108_Vehiculo
+_p109_FormaV2
