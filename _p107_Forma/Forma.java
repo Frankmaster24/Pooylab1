@@ -15,5 +15,5 @@ public abstract class Forma {
         Color = color;
 }
 
-public abstract double getArea();
+public abstract double getArea(); 
 }

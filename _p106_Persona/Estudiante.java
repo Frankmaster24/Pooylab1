@@ -23,7 +23,7 @@ public class Estudiante extends Persona {
 
     public String getCarrera() {
         return Carrera;
-    }
+    } 
 
     public void setCarrera(String carrera) {
         Carrera = carrera;

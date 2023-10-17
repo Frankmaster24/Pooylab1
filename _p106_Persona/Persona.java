@@ -15,7 +15,7 @@ public void setNombre(String nombre) {
 Nombre = nombre;
 }
 public String getDireccion() {
-return Direccion;
+return Direccion; 
 }
 public void setDireccion(String direccion) {
 Direccion = direccion;

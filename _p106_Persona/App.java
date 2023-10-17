@@ -24,6 +24,6 @@ public class App {
         Apoyo apoyo2 = new Apoyo("Sra Tere", "Sierra Madre 22","Secuandaria", 1500);
         Estudiante estudiante2 = new Estudiante ("Edgar", "Calle de abajo 134","Ing. Civil", 2023,2500);
 
-    }
+    } 
     
 }

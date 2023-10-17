@@ -35,6 +35,6 @@ public class Apoyo extends Persona {
     @Override
     public String toString() {
         return "Apoyo ["+super.toString() + "Escolaridad=" + Escolaridad + ", Paga=" + Paga + "]";
-    }
+    } 
     
 }
