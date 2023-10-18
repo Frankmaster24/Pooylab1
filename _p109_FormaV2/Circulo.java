@@ -14,7 +14,7 @@ public class Circulo extends Forma{
         return Radio;
     }
 
-    public void setRadio(double radio) {
+    public void setRadio(double radio) { 
         Radio = radio;
     }
 

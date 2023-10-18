@@ -16,7 +16,7 @@ public class App {
         formas.add(r1);
         formas.add(r2);
 
-        System.out.println("Todas las formas : ");
+        System.out.println("Todas las formas : "); 
         for (Forma forma : formas) {
             System.out.println(forma);
         }

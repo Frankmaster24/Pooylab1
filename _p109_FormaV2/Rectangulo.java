@@ -37,7 +37,7 @@ public class Rectangulo extends Forma{
     @Override
     public double getPerimetro() {
         return (2 * Largo) + (2 * Ancho);
-    }
+    } 
 
     @Override
     public String toString() {
