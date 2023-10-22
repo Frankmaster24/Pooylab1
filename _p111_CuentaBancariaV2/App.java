@@ -14,7 +14,7 @@ public class App {
         mibanco.getClinetes().get(0).agregarCuenta(new CuentaDeAhorro(1000,0.10));
         mibanco.getClinetes().get(0).agregarCuenta(new CuentaDeAhorro(1000,0.20));
         mibanco.getClinetes().get(0).agregarCuenta(new CuentaDeCheques(1000,500));
-        mibanco.getClinetes().get(1).agregarCuenta(new CuentaDeCheques(2500,500));
+        mibanco.getClinetes().get(1).agregarCuenta(new CuentaDeCheques(2500,500)); 
         mibanco.getClinetes().get(2).agregarCuenta(new CuentaDeCheques(2000,600));
         mibanco.getClinetes().get(2).agregarCuenta(new CuentaDeAhorro(2000,0.40));
         mibanco.reporte();

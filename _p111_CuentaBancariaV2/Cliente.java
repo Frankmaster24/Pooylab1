@@ -22,7 +22,7 @@ public class Cliente {
         Nombre = nombre;
     }
 
-    public ArrayList<CuentaBancaria> getCuentas() { 
+    public ArrayList<CuentaBancaria> getCuentas() {  
         return Cuentas;
     }
 

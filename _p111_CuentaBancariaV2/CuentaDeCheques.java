@@ -16,7 +16,7 @@ public class CuentaDeCheques extends CuentaBancaria {
             double requerida = cantidad - Saldo;
             if (Sobregiro <= requerida) {
                 Saldo = 0;
-                Sobregiro -= requerida;
+                Sobregiro -= requerida; 
              } 
         }
 

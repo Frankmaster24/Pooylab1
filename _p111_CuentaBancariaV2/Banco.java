@@ -50,7 +50,7 @@ public class Banco {
     public void calcularInteres() { 
     for (Cliente cliente : Clientes) {
         for (CuentaBancaria cuenta : cliente.getCuentas())
-            if(cuenta instanceof CuentaDeAhorro)
+            if(cuenta instanceof CuentaDeAhorro) 
                 ((CuentaDeAhorro)cuenta).calcularInteres();
 }
 }

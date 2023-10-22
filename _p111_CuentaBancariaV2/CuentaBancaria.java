@@ -11,7 +11,7 @@ Saldo += cantidad;
 public double getSaldo() {
 return Saldo;
 }
-public abstract boolean retira(double cantidad);
+public abstract boolean retira(double cantidad); 
 @Override
 public String toString() { 
 return "CuentaBancaria [ Saldo = " + Saldo + " ]";
