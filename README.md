@@ -156,6 +156,15 @@ _p105_PuntoTriangulo
 _p106_Persona
 _p107_Forma
 
+## Actividad 18
+_p110_CuentaBancariaV1
+
+## Activida 19
+_p111_CuentaBancariaV12
+
 ## Práctica 9
 _p108_Vehiculo
 _p109_FormaV2
+
+## Práctica 10
+_p112_ControlVentas
