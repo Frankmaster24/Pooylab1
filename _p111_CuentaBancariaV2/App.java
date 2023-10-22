@@ -8,7 +8,7 @@ public class App {
         mibanco.agregarClinetes(new Cliente("Carlos Fuentes"));
         mibanco.agregarClinetes(new Cliente("Juan De La Fuente"));
         mibanco.agregarClinetes(new Cliente("Rene Mayorga"));
-        mibanco.agregarClinetes(new Cliente("Maria Vazquez"));
+        mibanco.agregarClinetes(new Cliente("Maria Vazquez")); 
         System.out.println("\n>>> Los clientes del banco son:\n");
         mibanco.reporte();
         mibanco.getClinetes().get(0).agregarCuenta(new CuentaDeAhorro(1000,0.10));

@@ -12,7 +12,7 @@ public class CuentaDeAhorro extends CuentaBancaria {
   }
 
 @Override
-public boolean retira (double cantidad) {
+public boolean retira (double cantidad) { 
     if(Saldo >= cantidad ) {
         Saldo -= cantidad;
         return true;

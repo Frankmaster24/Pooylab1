@@ -47,7 +47,7 @@ public class Banco {
         }
         return total;
     }
-    public void calcularInteres() {
+    public void calcularInteres() { 
     for (Cliente cliente : Clientes) {
         for (CuentaBancaria cuenta : cliente.getCuentas())
             if(cuenta instanceof CuentaDeAhorro)
