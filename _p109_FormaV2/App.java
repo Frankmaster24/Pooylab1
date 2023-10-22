@@ -22,7 +22,7 @@ public class App {
         }
         
         System.out.println("\nCalculando áreas y perímetros de las figuras : ");
-        System.out.println("La forma es un Círculo");
+        System.out.println("La forma es un Círculo"); 
         System.out.println("El área es      : " + c1.getArea());
         System.out.println("El perímetro es : " + c1.getPerimetro());
         System.out.println("La forma es un Círculo");

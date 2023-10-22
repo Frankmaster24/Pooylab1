@@ -15,7 +15,7 @@ public abstract class Forma {
         return Color;
     }
 
-    public void setColor(String color) { 
+    public void setColor(String color) {  
         Color = color;
     }
 
