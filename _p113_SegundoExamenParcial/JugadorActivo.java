@@ -13,6 +13,7 @@ public class JugadorActivo extends Jugador {
         super(nombre, sexo, descripcion, salario);
         this.partidos = partidos;
         this.goles = goles;
+
         calcularTotal();
     }
     // Se calcula el bono

@@ -1,11 +1,11 @@
 package _p113_SegundoExamenParcial;
 
 public abstract class Jugador {
-    private String nombre;
-    private char sexo;
-    private String descripcion;
-    private double salario;
-    private double total;
+    protected String nombre;
+    protected char sexo;
+    protected String descripcion;
+    protected double salario;
+    protected double total;
     // Se hacen los constructores
     
     public Jugador(String nombre, char sexo, String descripcion, double salario) {
